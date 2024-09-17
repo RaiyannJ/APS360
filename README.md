@@ -5,4 +5,6 @@ Our group is implementing a dual CNN and ANN (MLP) network to accurately predict
 
 All our data was treated carefully, removing outliers and extra attributes. Data was also normalized and loaded correctly. Data processing was done with Python and Sheets.
 
-A final percent error of 32% was achieved, almost 10% better than our baseline model! Further finetuning and hyperparameter edits can be made to increase accuracy. 
+A final percent error of 30% was achieved, almost 12% better than our baseline model! Further finetuning and hyperparameter edits can be made to increase accuracy. 
+
+Demo Link: https://www.youtube.com/watch?v=IhF3b9VCzjE
